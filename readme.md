@@ -35,7 +35,7 @@ Ou então:
 1. **Clone este Repositório**:
 
 ```bash
-git clone https://github.com/seu-usuario/box-shadow-generator.git
+git clone https://github.com/Vinicius-Rodriguess/Box-Shadow-Generator.git
 cd box-shadow-generator
 ```
 
